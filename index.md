@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Elemental Amulets
 
 You can use the [editor on GitHub](https://github.com/Frostygames0/elemental-amulets-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
